@@ -1,7 +1,3 @@
-Berikut adalah **README** yang terpisah untuk temuan **XSS vulnerability** di **[https://kurator.ahu.go.id/kepailitan/search](https://kurator.ahu.go.id/kepailitan/search)**:
-
----
-
 # XSS Vulnerability Discovery at [https://kurator.ahu.go.id/kepailitan/search](https://kurator.ahu.go.id/kepailitan/search)
 
 This repository documents the discovery of a **Cross-Site Scripting (XSS)** vulnerability found on the website **[https://kurator.ahu.go.id/kepailitan/search](https://kurator.ahu.go.id/kepailitan/search)**.
@@ -51,6 +47,3 @@ Upon submission of the form with the above payload, the alert box below was trig
 
 This project is intended for **educational purposes** and **ethical hacking** only. Always ensure that any security testing is conducted responsibly and with proper authorization from relevant authorities.
 
----
-
-README ini menjelaskan temuan **XSS vulnerability** pada halaman **search** di **[https://kurator.ahu.go.id/kepailitan/search](https://kurator.ahu.go.id/kepailitan/search)**, dengan cara yang lebih sederhana dan langsung. Jangan lupa untuk menambahkan gambar atau file yang relevan pada repository Anda.
